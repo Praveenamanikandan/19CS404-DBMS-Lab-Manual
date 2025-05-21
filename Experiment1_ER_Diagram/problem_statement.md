@@ -1,3 +1,8 @@
+## NAME: PRAVEENA M
+## REG NO: 212223040153
+## DATE:14/02/2025
+
+
 # Experiment 1: Entity-Relationship (ER) Diagram
 
 ## 🎯 Objective:
@@ -51,7 +56,11 @@ Design a database for patient management, appointments, medical records, and bil
 University / Hospital (choose one)
 
 ## ER Diagram:
-![ER Diagram](er_diagram.png)
+
+
+![image](https://github.com/user-attachments/assets/6496e177-5770-4a53-bd69-d8c4d8e47354)
+
+![image](https://github.com/user-attachments/assets/6358393e-d430-4543-9fca-66f39b5a73e7)
 
 ## Entities and Attributes:
 - Entity1: Attributes
@@ -70,3 +79,4 @@ University / Hospital (choose one)
 Brief explanation of why you chose certain entities, relationships, and assumptions
 
 ## RESULT
+Thus, the ER diagram for the hospital management system was successfully designed, and the entities, relationships, and constraints were clearly represented.
